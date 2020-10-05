@@ -1,4 +1,4 @@
-package after2020.day200902;
+package after2020.day0902;
 
 import java.util.*;
 
