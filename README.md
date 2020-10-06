@@ -7,8 +7,8 @@
 ### 20.10.06
 
 - SWEA
-  - D4 4261 [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
-  - 
+  - 4261 [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
+  - 5644 [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
 
 
 
@@ -21,8 +21,8 @@
   - 힙 더 맵게
   - 힙 이중 우선순위큐
 - SWEA
-  - D4 1868 파핑파핑 지뢰찾기
-  - D4 4613 러시아 국기 같은 깃발
+  - 1868 파핑파핑 지뢰찾기
+  - 4613 러시아 국기 같은 깃발
 
 
 
@@ -79,7 +79,7 @@
 
 ---
 
-#### 20.02.24
+### 20.02.24
 
 - 정올 
   - 1889 NQueen (백트랙킹)
