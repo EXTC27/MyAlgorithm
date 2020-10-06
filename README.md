@@ -4,12 +4,22 @@
 
 
 
+#### 20.10.06
+
+- SWEA
+  - D4 4261 [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
+  - 
+
+
+
+---
+
 #### 20.10.05
 
 - 프로그래머스
   - 힙 디스크 컨트롤
-  - 더 맵게
-  - 이중 우선순위큐
+  - 힙 더 맵게
+  - 힙 이중 우선순위큐
 - SWEA
   - D4 1868 파핑파핑 지뢰찾기
   - D4 4613 러시아 국기 같은 깃발
