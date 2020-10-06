@@ -9,6 +9,7 @@
 - **SWEA**
   - 4261 [**빠른 휴대전화 키패드**](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
   - 5644 [**무선 충전**](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
+  - 4050 [**재관이의 대량 할인**](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN)
 
 
 
