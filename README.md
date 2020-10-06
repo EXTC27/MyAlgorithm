@@ -7,8 +7,8 @@
 ### 20.10.06
 
 - **SWEA**
-  - 4261 [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
-  - 5644 [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
+  - 4261 [**빠른 휴대전화 키패드**](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
+  - 5644 [**무선 충전**](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
 
 
 
@@ -17,12 +17,12 @@
 ### 20.10.05
 
 - **프로그래머스**
-  - 힙 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
-  - 힙 [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
-  - 힙 [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+  - 힙 [**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626)
+  - 힙 [**디스크 컨트롤러**](https://programmers.co.kr/learn/courses/30/lessons/42627)
+  - 힙 [**이중우선순위큐**](https://programmers.co.kr/learn/courses/30/lessons/42628)
 - **SWEA**
-  - 1868 [파핑파핑 지뢰찾기](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AV5LwsHaD1MDFAXc)
-  - 4613 [러시아 국기 같은 깃발](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWQl9TIK8qoDFAXj)
+  - 1868 [**파핑파핑 지뢰찾기**](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AV5LwsHaD1MDFAXc)
+  - 4613 [**러시아 국기 같은 깃발**](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWQl9TIK8qoDFAXj)
 
 
 
@@ -31,9 +31,9 @@
 ### 20.09.02
 
 - **프로그래머스** 
-  - 2020 카카오 공채 [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
-  - 2020 카카오 공채 [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) ***(미해결, 시간초과)***
-  - 2020 카카오 공채 [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+  - 2020 카카오 공채 [**기둥과 보 설치**](https://programmers.co.kr/learn/courses/30/lessons/60061)
+  - 2020 카카오 공채 [**외벽 점검**](https://programmers.co.kr/learn/courses/30/lessons/60062) ***(미해결, 시간초과)***
+  - 2020 카카오 공채 [**자물쇠와 열쇠**](https://programmers.co.kr/learn/courses/30/lessons/60059)
 
 
 
@@ -58,7 +58,7 @@
 ### 20.03.02
 
 - **정올** 
-  - 1027 좋은수열 (DFS)
+  - 1027 [**좋은수열**](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=306&sca=99&sfl=wr_subject&stx=좋은수열) (DFS)
 
 
 
@@ -67,7 +67,7 @@
 ### 20.02.26
 
 - **정올** 
-  - 1681 해밀턴순환회로 (DFS)
+  - 1681 [**해밀턴 순환회로**](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=954&sca=99&sfl=wr_subject&stx=해밀턴순환회로) (DFS)
 
 
 
@@ -76,7 +76,7 @@
 ### 20.02.25
 
 - **정올** 
-  - 1809 탑 (스택)
+  - 1809 [**탑**](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1082&sca=99&sfl=wr_subject&stx=탑) (스택)
 
 
 
@@ -85,7 +85,8 @@
 ### 20.02.24
 
 - **정올** 
-  - 1889 NQueen (백트랙킹)
-  - 1092 재곱수출력
-  - 1141 불쾌한날 (스택)
-  - 1328 빌딩 (스택)
+  - 1889 [**N Queen**](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1162&sca=99&sfl=wr_subject&stx=NQueen) (백트랙킹)
+  - 1092 [**제곱수 출력**](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=372&sca=99&sfl=wr_subject&stx=제곱수)
+  - 1141 [**불쾌한 날**](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=421&sca=99&sfl=wr_subject&stx=불쾌한날)(스택)
+  - 1328 [**빌딩**](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=607&sca=99&sfl=wr_subject&stx=빌딩)(스택)
+
