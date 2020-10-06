@@ -1,4 +1,4 @@
-package after2020;
+package _2020._02;
 
 import java.io.*;
 import java.util.*;
@@ -11,7 +11,6 @@ public class Main_정올_1809_탑 {
 	static Stack<int[]> stack;
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		N = Integer.parseInt(br.readLine());
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		arr = new int[N];

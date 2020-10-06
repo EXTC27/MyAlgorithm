@@ -1,4 +1,4 @@
-package after2020.day0902;
+package _2020._0902;
 
 import java.util.ArrayList;
 import java.util.Arrays;

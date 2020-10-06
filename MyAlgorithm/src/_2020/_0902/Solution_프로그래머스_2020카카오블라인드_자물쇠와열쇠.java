@@ -1,4 +1,4 @@
-package after2020.day0902;
+package _2020._0902;
 
 public class Solution_프로그래머스_2020카카오블라인드_자물쇠와열쇠 {
 

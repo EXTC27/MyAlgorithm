@@ -1,4 +1,4 @@
-package after2020;
+package _2020._02;
 
 import java.io.*;
 import java.util.*;
@@ -15,7 +15,7 @@ public class Main_정올_1328_빌딩 {
 		arr = new int[N];
 		stack = new Stack<>();
 		
-		int idx = 0;
+//		int idx = 0;
 		for(int i = 0; i < N; i++) {
 			st = new StringTokenizer(br.readLine());
 			int height = Integer.parseInt(st.nextToken());
