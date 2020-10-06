@@ -6,7 +6,7 @@
 
 ### 20.10.06
 
-- SWEA
+- **SWEA**
   - 4261 [빠른 휴대전화 키패드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW)
   - 5644 [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
 
@@ -16,13 +16,13 @@
 
 ### 20.10.05
 
-- 프로그래머스
-  - 힙 디스크 컨트롤
-  - 힙 더 맵게
-  - 힙 이중 우선순위큐
-- SWEA
-  - 1868 파핑파핑 지뢰찾기
-  - 4613 러시아 국기 같은 깃발
+- **프로그래머스**
+  - 힙 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+  - 힙 [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+  - 힙 [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+- **SWEA**
+  - 1868 [파핑파핑 지뢰찾기](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AV5LwsHaD1MDFAXc)
+  - 4613 [러시아 국기 같은 깃발](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWQl9TIK8qoDFAXj)
 
 
 
@@ -30,10 +30,10 @@
 
 ### 20.09.02
 
-- 프로그래머스 
-  - 2020 카카오 공채 기둥과 보 설치
-  - 2020 카카오 공채 외벽점검 ***(미해결, 시간초과)***
-  - 2020 카카오 공채 자물쇠와 열쇠
+- **프로그래머스** 
+  - 2020 카카오 공채 [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)
+  - 2020 카카오 공채 [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) ***(미해결, 시간초과)***
+  - 2020 카카오 공채 [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
 
 
 
@@ -41,15 +41,15 @@
 
 ### 20.08.31
 
-- 백준 
-  - 15829 Hashing
-- 프로그래머스 
-  - 2020 카카오 공채 괄호변환
-  - 2020 카카오 공채 문자열압축
-  - 해시 베스트 앨범
-  - 해시 완주하지 못한 선수 
-  - 해시 위장
-  - 해시 전화번호 목록
+- **백준** 
+  - 15829 [**Hashing**](https://www.acmicpc.net/problem/13783)
+- **프로그래머스** 
+  - 2020 카카오 공채 [**괄호 변환**](https://programmers.co.kr/learn/courses/30/lessons/60058)
+  - 2020 카카오 공채 **[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)**
+  - 해시 [**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576) 
+  - 해시 [**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)
+  - 해시 [**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)
+  - 해시 [**베스트앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
 
 
@@ -57,7 +57,8 @@
 
 ### 20.03.02
 
-- 정올 1027 좋은수열 (DFS)
+- **정올** 
+  - 1027 좋은수열 (DFS)
 
 
 
@@ -65,7 +66,8 @@
 
 ### 20.02.26
 
-- 정올 1681 해밀턴순환회로 (DFS)
+- **정올** 
+  - 1681 해밀턴순환회로 (DFS)
 
 
 
@@ -73,7 +75,8 @@
 
 ### 20.02.25
 
-- 정올 1809 탑 (스택)
+- **정올** 
+  - 1809 탑 (스택)
 
 
 
@@ -81,7 +84,7 @@
 
 ### 20.02.24
 
-- 정올 
+- **정올** 
   - 1889 NQueen (백트랙킹)
   - 1092 재곱수출력
   - 1141 불쾌한날 (스택)
