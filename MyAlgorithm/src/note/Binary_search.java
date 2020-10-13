@@ -3,7 +3,7 @@ package note;
 import java.io.*;
 import java.util.*;
 
-public class binary_search {
+public class Binary_search {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

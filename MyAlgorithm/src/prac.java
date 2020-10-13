@@ -1,4 +1,7 @@
+import java.math.BigInteger;
 import java.util.*;
+
+import javax.xml.crypto.dsig.spec.HMACParameterSpec;
 
 public class prac {
 	
@@ -9,9 +12,11 @@ public class prac {
 			cnt *= i / (i - 25000);
 		}
 		System.out.println(cnt);
-			
 		
-//		PriorityQueue<Integer> pq = new PriorityQueue<>();
+		HashMap<Integer, Integer> hm = new HashMap<>();
+		
+		BigInteger bigInteger;
+		
 //		
 //		pq.offer(1);
 //		pq.offer(1);
