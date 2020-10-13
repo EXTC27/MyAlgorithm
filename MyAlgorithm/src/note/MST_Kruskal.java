@@ -19,7 +19,7 @@ public class MST_Kruskal {
 		
 		System.out.println("ans:" + kruskal(arr)); //ans: 123
 	}
-
+	
 	static int find(int a) {
 		if(parent[a] == a) return a;
 		else return parent[a] = find(parent[a]);
@@ -52,7 +52,7 @@ public class MST_Kruskal {
 			int x = poll[1];
 			int y = poll[2];
 			
-			if(parent[x] == parent[y]) continue;
+			if(parent[x] == parent[y]) continue; //방문체크
 			
 			union(x, y);
 			ans += edge;

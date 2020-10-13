@@ -3,8 +3,8 @@ package _2020._1012;
 import java.io.*;
 import java.util.*;
 
+//MST Prim
 public class Main_백준_1197_최소스패닝트리 {
-    
 	static int V, E;
 	static ArrayList<Node>[] nodes;
 	static Queue<int[]> queue;
@@ -20,11 +20,6 @@ public class Main_백준_1197_최소스패닝트리 {
 		@Override
 		public int compareTo(Node o) {
 			return this.edge - o.edge;
-		}
-
-		@Override
-		public String toString() {
-			return "Node [to=" + to + ", edge=" + edge + "]";
 		}
 	}
 	
@@ -62,7 +57,6 @@ public class Main_백준_1197_최소스패닝트리 {
     		int from = queue.poll();
     		
     		visit[from] = true;
-//    		System.out.println(nodes[from]);
     		for(Node node : nodes[from]) {
     			if(visit[node.to]) continue;
     			pq.offer(new Node(node.to, node.edge));
