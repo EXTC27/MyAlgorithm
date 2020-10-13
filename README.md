@@ -15,8 +15,8 @@
 ### 20.10.13
 
 - 프로그래머스
-  - 그래프 [**가장 먼 노드**]()
-  - 그래프 [**순위**]()
+  - 그래프 [**가장 먼 노드**](https://programmers.co.kr/learn/courses/30/lessons/49189)
+  - 그래프 [**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191)
 
 
 
