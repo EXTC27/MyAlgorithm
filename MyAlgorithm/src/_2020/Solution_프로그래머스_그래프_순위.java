@@ -1,4 +1,4 @@
-package _2020._1013;
+package _2020;
 
 public class Solution_프로그래머스_그래프_순위 {
 	public static void main(String[] args){

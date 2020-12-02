@@ -1,4 +1,4 @@
-package _2020._1006;
+package _2020;
 
 import java.io.*;
 import java.util.*;

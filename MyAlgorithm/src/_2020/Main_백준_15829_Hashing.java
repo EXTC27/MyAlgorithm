@@ -1,4 +1,4 @@
-package _2020._0831;
+package _2020;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
