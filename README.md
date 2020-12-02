@@ -8,13 +8,29 @@
 
 
 
+---
+
+### 20.12.02
+
+- **백준**
+  - 1726 [**로봇**](https://www.acmicpc.net/problem/1726)
+
+
+
+---
+
+### 20.12.01
+
+- **백준**
+  - 20061 [**모노미노도미노2**](https://www.acmicpc.net/problem/20061)
+
 
 
 ---
 
 ### 20.10.13
 
-- 프로그래머스
+- **프로그래머스**
   - 그래프 [**가장 먼 노드**](https://programmers.co.kr/learn/courses/30/lessons/49189)
   - 그래프 [**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191)
 
